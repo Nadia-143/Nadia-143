@@ -6,16 +6,43 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nadia-143&show_icons=true&theme=material-palenight)
 
+<details>
+  
+
+  
+<summary> 📉 Metis_T5 Projects 📉 </summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nadia-143&show_icons=true&theme=material-palenight" alt="abhisheknaiidu" />
+
+</details>
+
+</br>
+
+<a href="https://github.com/Nadia-143/EDA_project_1_METIS_T5" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nadia-143&repo=EDA_project_1_METIS_T5&theme=material-palenight" />
+</a>
+<a href="https://github.com/Nadia-143/LinRegg_Project2_Metis_T5" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nadia-143&repo=LinRegg_Project2_Metis_T5&theme=material-palenight" />
+</a>
+
+<a href="https://github.com/Nadia-143/Classification_Project_Metis_T5" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nadia-143&repo=Classification_Project_Metis_T5&theme=material-palenight" />
+</a>
+
+<a href="https://github.com/Nadia-143/project4_T5_NLP" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nadia-143&repo=project4_T5_NLP&theme=material-palenight" />
+</a>
+
+<div align="center">
 
 
 
 
-
-
+## Find me on ✨
 
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+ [![Twitter][1.2]][1] [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 

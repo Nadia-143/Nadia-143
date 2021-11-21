@@ -42,7 +42,7 @@
 
 <!-- Actual text -->
 
- [![Twitter][1.2]][1] [![LinkedIn][2.2]][2].
+ [![Twitter][1.2]][1] [![LinkedIn][2.2]][2]
 
 <!-- Icons -->
 

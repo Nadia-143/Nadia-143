@@ -1,10 +1,9 @@
 
-
-
-
-
+<br />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nadia-143&show_icons=true&theme=material-palenight)
+<br />
+
 
 <details>
   
@@ -15,6 +14,7 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nadia-143&show_icons=true&theme=material-palenight" alt="abhisheknaiidu" />
 
 </details>
+
 
 </br>
 
@@ -37,6 +37,10 @@
 
 
 
+ <br /> 
+  
+  
+  
 
 ## Find me on ✨
 

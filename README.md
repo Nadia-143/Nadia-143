@@ -28,6 +28,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nadia-143&repo=project4_T5_NLP&theme=material-palenight" />
 </a>
 
+<a href="https://github.com/Nadia-143/DeepLearning_Project_Metis_T5" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nadia-143&repo=DeepLearning_Project_Metis_T5&theme=material-palenight" />
+</a>
+
 <div align="center">
 
 
